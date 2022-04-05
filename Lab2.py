@@ -1,8 +1,11 @@
-# # LAB 2 :
-print("Hello world")
+# # LAB 2 : 
 
-list1 = [1,2,3,4,5,6]
-list2 = [4,5,6,7,8,9]
+num1 = int(input("Enter the number of elements in list 1 :"))
+list1 = []
+printf ("Enter the elements you want in list 1: ")
+for i in range()
+
+list2 = []
 
 
 # ## Method 1 : using + operator
@@ -46,3 +49,4 @@ print("Concatenation of list1 : {} and list2 : {} is {}\n" .format(list1,list2, 
  
  joined_list5 = list(set(list1+list2))
  print("Union of list 1 and list 2 =", joined_list5)
+
